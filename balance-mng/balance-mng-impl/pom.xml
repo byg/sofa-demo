@@ -27,6 +27,12 @@
 
         <!-- 引入依赖在这里 -->
 
+        <dependency>
+            <groupId>com.alipay.sofa</groupId>
+            <artifactId>runtime-sofa-boot-starter</artifactId>
+            <version>3.1.4</version>
+            <scope>compile</scope>
+        </dependency>
 
 
     </dependencies>
